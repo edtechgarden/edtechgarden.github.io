@@ -1,7 +1,6 @@
 Title: Schedule
 Date: 2016-03-14 16:00
 Category: buildweb
-Navsort: 1
 Tags: buildweb
 Type: section
 Slug: schedule

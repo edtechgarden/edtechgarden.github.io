@@ -1,7 +1,6 @@
 Title: Session 3
 Date: 2016-03-14 16:00
 Category: buildweb
-Navsort: 4
 Tags: session3
 Type: section
 Slug: session3

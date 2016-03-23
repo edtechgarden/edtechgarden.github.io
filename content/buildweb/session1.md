@@ -1,7 +1,6 @@
 Title: Session 1       
 Date: 2016-03-14 16:00
 Category: buildweb
-Navsort: 2
 Tags: session1
 Type: section
 Slug: session1
