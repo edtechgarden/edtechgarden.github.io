@@ -1,4 +1,4 @@
-Title: Build your own course site
+Title: Reclaiming an online space for education
 Date: 2016-03-14 16:00
 Category: buildweb
 Tags: buildweb
