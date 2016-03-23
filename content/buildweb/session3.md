@@ -1,9 +1,11 @@
-Title: Session 3 - The Many Parts of WordPress
+Title: Session 3
 Date: 2016-03-14 16:00
 Category: buildweb
 Tags: session3
 Type: section
 Slug: session3
+
+# The Many Parts of WordPress
 
 ## Tasks
 
