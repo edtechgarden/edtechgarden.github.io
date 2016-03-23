@@ -1,15 +1,15 @@
-Title: Session 2 - Staking a claim          
+Title: Session 2  
 Date: 2016-03-14 16:00
 Category: buildweb
 Tags: session2
 Type: section
 Slug: session2
 
-## Staking a claim
+# Staking a claim
 
 Now that we have a better idea of what [web hosting](./webparts.html) is and how we [spend our time online](./websurvey.html), it is time to start building our own little corner of the internet. 
 
-#### Steps 1 &amp; 2: Sign up for Reclaim hosting
+## Steps 1 &amp; 2: Sign up for Reclaim hosting
 
 Your first step to building an online space with Reclaim is to sign up. As mentioned in the "Why Pay?" and the "Why Pay Reclaim?" sections of [Session 1](./session1.html), signing up with Reclaim costs $25 a year. For that $25 Reclaim does two big things for you: they register a domain name of your choice so you have a unique address online, and they give you space on their servers for your web pages, attachments, and apps. Having a domain name is going to let you have email addresses at your own domain, which can be an important permanent point of contact, especially for graduate students who are likely to move through a handful of academic email addresses in their careers but may want to use something a little more durable and sophisticated than a public gmail or yahoo address for job searches.  
 
@@ -17,11 +17,11 @@ You sign up for Reclaim by filling out [this form](https://portal.reclaimhosting
 
 After you find a name you like that is available, Reclaim will ask if you want to pay to keep your information from being listed in the public directory of domain owners. This is a formal part of the domain registration process, not something unique to Reclaim hosting. If you want to understand what the options are and decide what to list, now would be the best time to take a look at [DNS registration privacy](./privatedns.html), one of this week's Web Fundamental readings. 
 
-#### Step 3: Install WordPress
+## Step 3: Install WordPress
 
 Reclaim actually has a very straightforward walk through on [Installing Wordpress](http://docs.reclaimhosting.com/getting-started/installing-wordpress) which also serves as a good introduction to how to access the various areas of your new Reclaim hosting account. The whole thing should only take two or three minutes so just follow the steps [they outline](http://docs.reclaimhosting.com/getting-started/installing-wordpress).
 
-## Writing your first post
+## Next step: Writing your first post
 
 Depending on what you want your personal website to do, you may all end up building very different sites from each other during this course. Rather than give you a particular template to follow, this course aims to give you a solid foundation in how Wordpress pulls together the basic parts of your site and how to make it work for you through selecting templates, plugins, and other administration tasks. The first fundamental capability we will learn in WordPress is how to post text. 
 
