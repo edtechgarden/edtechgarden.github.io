@@ -1,4 +1,4 @@
-Title: Session 1           
+Title: Session 1 - What and Why?       
 Date: 2016-03-14 16:00
 Category: buildweb
 Tags: session1
