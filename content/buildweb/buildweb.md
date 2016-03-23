@@ -1,3 +1,11 @@
+Title: Build your own course site
+Date: 2016-03-14 16:00
+Category: buildcourse
+Tags: buildcourse
+Type: course
+Slug: buildcourse
+save_as: buildcourse/index.html
+
 ## Introduction  ##
 
 In this course we will build a personal website together, explore some of the reason for having a personal space online, especially in the educational context, and examine some of the challenges and opportunities provided by participating in online courses like this one.
