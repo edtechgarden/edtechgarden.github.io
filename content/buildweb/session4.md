@@ -16,7 +16,7 @@ Slug: session4
 
 ### Online Courses
 
-* Fundamentals of making positive contributions online
+* Reading: [Fundamentals of making positive contributions online](contributeonline.html)
 
 ### Web Fundamentals
 
