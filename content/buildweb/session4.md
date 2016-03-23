@@ -1,4 +1,4 @@
-Title: Session 4
+Title: Session 4 - Expand and Organize
 Date: 2016-03-23 13:00
 Category: buildweb
 Tags: session4
