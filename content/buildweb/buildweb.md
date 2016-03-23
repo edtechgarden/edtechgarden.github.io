@@ -1,10 +1,10 @@
 Title: Build your own course site
 Date: 2016-03-14 16:00
-Category: buildcourse
-Tags: buildcourse
+Category: buildweb
+Tags: buildweb
 Type: course
-Slug: buildcourse
-save_as: buildcourse/index.html
+Slug: buildweb
+save_as: buildweb/index.html
 
 ## Introduction  ##
 
