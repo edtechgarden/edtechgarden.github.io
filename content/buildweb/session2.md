@@ -1,4 +1,4 @@
-Title: Session 2          
+Title: Session 2 - Staking a claim          
 Date: 2016-03-14 16:00
 Category: buildweb
 Tags: session2
