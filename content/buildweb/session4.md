@@ -1,9 +1,11 @@
-Title: Session 4 - Expand and Organize
+Title: Session 4
 Date: 2016-03-23 13:00
 Category: buildweb
 Tags: session4
 Type: section
 Slug: session4
+
+# Expand and Organize
 
 ## Tasks
 
