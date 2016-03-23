@@ -14,10 +14,10 @@ This course is broken up into five components that I am calling "Sessions" here,
 * [Session 2: Staking a claim](./session2.html)    
    Feb 12 - Mar 04 - - - (in person on Feb 24)
 
-* [Session 3](./session3.html)     
+* [Session 3:The Many Parts of WordPress ](./session3.html)     
    Mar 07 - Mar 18 - - - (in person on Mar 10)
 
-* [Session 4](./session4.html)      
+* [Session 4: Expand and Organize](./session4.html)      
    Mar 21 - Apr 01 - - - (in person on Mar 23)
 
 * [Session 5](./session5.html)      
