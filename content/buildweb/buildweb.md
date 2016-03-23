@@ -1,6 +1,7 @@
 Title: Build your own course site
 Date: 2016-03-14 16:00
 Category: buildweb
+Navsort: 0
 Tags: buildweb
 Type: course
 Slug: buildweb

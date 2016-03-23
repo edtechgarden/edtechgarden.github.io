@@ -1,6 +1,7 @@
 Title: Build your own course site
 Date: 2016-03-14 16:00
 Category: buildcourse
+Navsort: 0
 Tags: buildcourse
 Type: course
 Slug: buildcourse

@@ -26,7 +26,7 @@
 			    {% if category|string() == 'home' %}
 				<p class='header-date'>Choose a course:</p>
 				<ul class="coursenav nav">
-                                {% for a in articles|sort(attribute='title') %}
+                                {% for a in articles|sort(attribute='navsort') %}
                                      {% if a.type|string() == 'course' %}
                                          <li><a class="" href="{{ SITEURL }}/{{ a.slug }}">{{ a.title }}</a></li>
                                      {% endif %}
@@ -35,7 +35,7 @@
 			    {% else %}
 				<p class='header-date'>Course Navigation: 
 				<ul class="coursenav nav">
-				{% for a in articles|sort(attribute='title') if a.category == category %}
+				{% for a in articles|sort(attribute='navsort') if a.category == category %}
                                      {% if a.type|string() == 'course' %}
                                          <li><a class="first {% if a == article %}active{% endif %}" href="{{ SITEURL }}/{{ a.slug }}">Course Home</a></li>
                                      {% endif %}
