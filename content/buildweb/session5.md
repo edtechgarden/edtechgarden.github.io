@@ -5,13 +5,13 @@ Tags: session5
 Type: section
 Slug: session5
 
-### Site Building
+## Site Building
 
 * Reading: "Updating and Security" below.
 
-### Online Courses
+## Online Courses
 
-### Web Fundamentals
+## Web Fundamentals
 
 * Reading: [What is Encryption?](https://ssd.eff.org/en/module/what-encryption)
 * Reading: [Generating and remembering passwords](https://ssd.eff.org/en/module/creating-strong-passwords)
@@ -20,6 +20,8 @@ Slug: session5
 WordPress plugins are additional pieces of software you can add into your WordPress site.  Just like with themes, the developers of WordPress built in a catalog that lists thousands of free plugins to handle a whole range of different tasks and situations.  You can access this through your site's dashboard under "Plugins".  While all these pluins are free, just like with themes many will try and convince you to pay them for additional features and tools.  If you do need one of the paid features of a plugin, unless you have a reason you need to use that particular plugin, I would strongly advise returning to the plugin list to see if you can find a different one that can handle what you are trying to do for free. Plugins offer some great tools to make your site flexible and capable of doing whatever you might need but, because plugins are additional software you are installing, each one that you add makes your site a little more likely to break.  The best approach for plugins is to use as few as you can to accomplish what you need, choose plugins that are widely used and actively maintained where possible, and keep them updated along with the rest of your WordPress software.  And, if you like a particular plugin and want to support the developers, consider giving them a good review in the WordPress plugin list and see if perhaps they have a "donate" button in their plugin description there.
 
 -----
+### Updating and Security
+
 Now that you have built your website it is time to look at how to secure and maintain it for the future. These can be big and off putting topics where it seems like you need to build an impenetrable fortress to defend against the whole internet. We are going to do the five minute version instead. This should get you through the most common obstacles and help you recover from any troubles you run into later on.
 
 #### SPAM
@@ -36,14 +38,24 @@ If you later decide to have people register on your site, for a course or other 
 
 #### Updates
 
-Keep your software updated. Old software is easier for people to break and WordPress is so popular that there are many people out there who try and do just that, whether to post SPAM, steal email and password information, or for some other nefarious purpose. Thankfully there is also a great community of WordPress developers and users who report and fix these issues as they come up but the only way you can benefit from their hard work is to keep your software updated.  WordPress makes it easy to update your main software as well as any plugins and themes all from a single "updates" tab. You should log in at least every month to make sure everything is updated. Simply log in to your site dashboard and look for the "Updates" tab on the top of the left hand menu. When you have updates available a little orange circle will appear there telling you how many updates you have available like this: ![WordPress update status](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/sources/content/images/wp-dashboard-updates.png)
+Keep your software updated. Old software is easier for people to break and WordPress is so popular that there are many people out there who try and do just that, whether to post SPAM, steal email and password information, or for some other nefarious purpose. Thankfully there is also a great community of WordPress developers and users who report and fix these issues as they come up but the only way you can benefit from their hard work is to keep your software updated.  WordPress makes it easy to update your main software as well as any plugins and themes all from a single "updates" tab. You should log in at least every month to make sure everything is updated. Simply log in to your site dashboard and look for the "Updates" tab on the top of the left hand menu. When you have updates available a little orange circle will appear there telling you how many updates you have available like this:
+
+![WordPress update status](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/sources/content/images/wp-dashboard-updates.png)
 
 You can also have Reclaim do all this updating for you automatically. To turn on automatic updates:
 
 * Log in to your Reclaim hosting account
-* Navigate to the "cPanel" button, ![Reclaim Client area](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/sources/content/images/reclaim-client-area.png)
-* Select your WordPress site in the application list ![cPanel application list](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/sources/content/images/cPanel-wordpress.png)
-* Scroll down to the "Automatic Updates" options on the "My Application" tab that opens up ![](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/sources/content/images/cPanel-updates.png)
+* Navigate to the "cPanel" button,
+
+![Reclaim Client area](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/sources/content/images/reclaim-client-area.png)
+
+* Select your WordPress site in the application list
+
+![cPanel application list](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/4054a49f1976dc2eb10615e8d9ae03193b9300df/content/images/cPanel-wordpress.png)
+
+* Scroll down to the "Automatic Updates" options on the "My Application" tab that opens up
+
+![](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/sources/content/images/cPanel-updates.png)
 
 You can turn on updates for all versions or just for minor versions, which is a little more likely to be stable, and you can also update plugins and themes.  Be aware that WordPress updates, while very reliable, are not always perfect so updating automatically may cause parts of your site to break or start looking differently, especially between different major versions. This brings us to the last big point: backups.
 
