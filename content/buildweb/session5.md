@@ -67,7 +67,7 @@ How many backups you want depends on how regularly your site changes. For person
 
 #### HTTPS
 
-HTTPS is the secure way to connect to websites and it is made possible by a technology called SSL.  SSL keeps people on the same network as you, for instance on the wireless network at a coffee shop, from seeing your password when you log in to your site. This is especially important if you have other people logging in to your site or if you are using the same password for other sites. Reclaim has a great document [available here](http://docs.reclaimhosting.com/miscellaneous/installing-free-ssl-certificates) on how to turn this on fory your site in about three clicks.
+HTTPS is the secure way to connect to websites and it is made possible by a technology called SSL.  SSL keeps people on the same network as you, for instance on the wireless network at a coffee shop, from seeing your password when you log in to your site. This is especially important if you have other people logging in to your site or if you are using the same password for other sites. Reclaim has a great document [available here](http://docs.reclaimhosting.com/miscellaneous/installing-free-ssl-certificates) on how to turn this on for your site in about three clicks.
 
 #### Epilogue
 
