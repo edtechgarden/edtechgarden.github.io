@@ -67,7 +67,7 @@ How many backups you want depends on how regularly your site changes. For person
 
 #### HTTPS
 
-HTTPS is the secure way to connect to websites and it is made possible by a technology called SSL.  SSL keeps people on the same network as you, for instance on the wireless network at a coffee shop, from seeing your password when you log in to your site. This is especially important if you have other people logging in to your site or if you are using the same password for other sites. Setting this one up for yourself is actually a bit complicated but thankfully Reclaim will turn it on for you for free.  Just log in to your reclaim account, click on the "Open Ticket" ![Reclaim hosting "Open Ticket" button](https://raw.githubusercontent.com/edtechgarden/edtechgarden.github.io/sources/content/images/reclaim-open-ticket.png) button and tell them  "I would like a Let's Encrypt SSL certificate for my WordPress site please" and you should be all set.
+HTTPS is the secure way to connect to websites and it is made possible by a technology called SSL.  SSL keeps people on the same network as you, for instance on the wireless network at a coffee shop, from seeing your password when you log in to your site. This is especially important if you have other people logging in to your site or if you are using the same password for other sites. Reclaim has a great document [available here](http://docs.reclaimhosting.com/miscellaneous/installing-free-ssl-certificates) on how to turn this on fory your site in about three clicks.
 
 #### Epilogue
 
