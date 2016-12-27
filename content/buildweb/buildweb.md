@@ -70,4 +70,5 @@ For instance, if you find value in what someone else has written you could find 
 
 We can be as flexible in defining these points as we wish but I do take them seriously as markers of success in the course. One of the big differences between this course and a simple HowTo website is that we are all going through it together. While this course may not be a substantial time commitment compared to formal classes, I do hope you will treat it as a significant commitment.
 
-### *[Move on to the schedule](./schedule)*
+### *[Move on to the schedule](./schedule.html)*
+
